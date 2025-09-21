@@ -1,8 +1,12 @@
 # AI Speech
 
-OCI Speech is an AI service that applies automatic speech recognition technology to transform audio-based content into text. Developers can easily make API calls to integrate OCI Speech’s pre-trained models into their applications. OCI Speech can be used for accurate, text-normalized, time-stamped transcription via the console and REST APIs as well as command-line interfaces or SDKs. You can also use OCI Speech in an OCI Data Science notebook session. With OCI Speech, you can filter profanities, get confidence scores for both single words and complete transcriptions, and more.
+OCI Speech is Oracle’s managed speech-to-text (STT) and text-to-speech (TTS) service - STT + TTS in one service. 
+It supports batch transcription from Object Storage and real-time streaming (“Live Transcribe”) over WebSocket, with JSON/SRT outputs and SDKs for Python and the web.
+Live Transcribe in 90+ languages (using Whisper model), including auto language detection in realtime. 
+Whisper prompting: bias transcripts with domain terms (e.g., airline codes, product names).
+Speaker diarization (who-spoke-when) available via API/SDK.
 
-Reviewed: 11.06.2026
+Reviewed: 21.09.2025
 
 # Table of Contents
  
