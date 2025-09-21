@@ -27,7 +27,8 @@ Reviewed: 11.06.2026
 - [Use OCI Speech to transcribe natural language](https://docs.oracle.com/en/solutions/ai-speech/index.html)
 
 # Useful Links
- 
+
+- [OCI Speech  release notes] https://docs.oracle.com/en-us/iaas/releasenotes/services/speech/index.htm 
 - [AI Solutions Hub](https://www.oracle.com/artificial-intelligence/solutions/)
 - [Oracle AI Speech on oracle.com](https://www.oracle.com/artificial-intelligence/speech/)
 - [Oracle AI Speech documentation](https://docs.oracle.com/en-us/iaas/Content/speech/home.htm)
